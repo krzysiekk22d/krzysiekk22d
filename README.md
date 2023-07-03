@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krzysiekk22d
-- 👀 I’m interested in travelling
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in travelling and Slavic culture
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
