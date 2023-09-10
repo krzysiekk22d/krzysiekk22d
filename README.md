@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krzysiekk22d
-- 👀 I’m interested in travelling and Slavic culture
+- 👀 I’m interested in linguistics
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
